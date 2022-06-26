@@ -1,2 +1,2 @@
-# mslab.github.io
+# multiscalePKU.github.io
 website for sheng mao
